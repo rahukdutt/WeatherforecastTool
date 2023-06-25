@@ -5,7 +5,6 @@
 C:\Work>python .\WeatherForecastTool.py London
 Weather forecast tool
 Getting weather forecast for London
-http://api.openweathermap.org/data/2.5/weather?q=London&appid=b0fabe127a83d5680834a44bb740713d
 Weather forecast for London
 Current weather: scattered clouds
 Temperature: 303.25 degrees F
