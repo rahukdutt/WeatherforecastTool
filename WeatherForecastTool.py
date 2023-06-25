@@ -2,7 +2,7 @@ import requests
 import json
 import datetime
 import sys
-API_KEY='b0fabe127a83d5680834a44bb740713d' # API key for openweathermap.org
+API_KEY='' # API key for openweathermap.org
 
 def getWeather(City):
     # Get weather data from openweathermap.org
